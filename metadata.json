@@ -1,0 +1,5 @@
+{
+  "name": "SwiftMailes Logistics - Delivery Partner",
+  "description": "Official delivery partner application for SwiftMailes Logistics, featuring multi-platform integrations (Swiggy, Zomato, ONDC), KYC, and earnings management.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
